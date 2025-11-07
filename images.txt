@@ -2,3 +2,4 @@ nginx
 mysql
 redis
 rabbitmq
+nacos/nacos-server
