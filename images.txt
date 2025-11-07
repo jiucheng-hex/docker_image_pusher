@@ -4,9 +4,3 @@ redis
 rabbitmq
 nacos/nacos-server
 elasticsearch
-logstash
-kibana
-prom/prometheus
-grafana/grafana
-gitlab/gitlab-ce
-jenkins/jenkins
