@@ -7,3 +7,5 @@ prom/prometheus
 grafana/grafana
 gitlab/gitlab-ce
 jenkins/jenkins
+logstash
+kibana
