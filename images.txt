@@ -3,9 +3,11 @@ mysql
 redis
 rabbitmq
 nacos/nacos-server
-prom/prometheus
-grafana/grafana
+prom/prometheus:v2.45.0
+grafana/grafana:10.2.2
 gitlab/gitlab-ce
 jenkins/jenkins
-logstash
-kibana
+prom/node-exporter:v1.7.0
+prom/alertmanager:v0.26.0
+grafana/loki:2.9.2
+gcr.io/cadvisor/cadvisor:v0.47.0
