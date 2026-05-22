@@ -11,3 +11,4 @@ grafana/loki:2.9.2
 gcr.io/cadvisor/cadvisor:v0.47.0
 gitlab/gitlab-ce
 jenkins/jenkins
+xxl-job-admin:3.4.0
